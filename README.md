@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -48,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Counting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
