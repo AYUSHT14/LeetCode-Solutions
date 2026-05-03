@@ -206,11 +206,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
@@ -221,6 +223,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
