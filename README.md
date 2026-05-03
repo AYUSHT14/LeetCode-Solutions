@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0455-assign-cookies](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
