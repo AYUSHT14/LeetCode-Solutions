@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0860-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0904-fruit-into-baskets](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
