@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [1046-last-stone-weight](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Greedy
 |  |
 | ------- |
@@ -21,4 +22,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [1046-last-stone-weight](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
