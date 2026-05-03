@@ -207,16 +207,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
