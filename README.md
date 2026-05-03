@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0057-insert-interval) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
