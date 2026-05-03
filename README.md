@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0860-lemonade-change](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1710-maximum-units-on-a-truck](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
