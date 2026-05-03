@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [1046-last-stone-weight](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Greedy
@@ -13,16 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 ## Sorting
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [1046-last-stone-weight](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## String
@@ -40,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
