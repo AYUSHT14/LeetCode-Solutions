@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
