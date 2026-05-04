@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1024-video-stitching) |
 | [1046-last-stone-weight](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
