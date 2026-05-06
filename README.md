@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
