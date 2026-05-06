@@ -1,45 +1,65 @@
 class Solution {
+
     public void solve(char[][] board) {
+
         int rows = board.length;
         int cols = board[0].length;
 
-        // Step 1: DFS from boundary O's
-        for(int i = 0; i < rows; i++) {
+        // Step 1:
+        // Mark all boundary connected 'O' as '#'
+
+        // First column and last column
+        for (int i = 0; i < rows; i++) {
             dfs(board, i, 0);
             dfs(board, i, cols - 1);
         }
 
-        for(int j = 0; j < cols; j++) {
+        // Top row and bottom row
+        for (int j = 0; j < cols; j++) {
             dfs(board, 0, j);
             dfs(board, rows - 1, j);
         }
 
-        // Step 2: Flip surrounded O's
-        for(int i = 0; i < rows; i++) {
-            for(int j = 0; j < cols; j++) {
+        // Step 2:
+        // Convert remaining 'O' into 'X'
+        // Convert '#' back to 'O'
 
-                if(board[i][j] == 'O') {
+        for (int i = 0; i < rows; i++) {
+
+            for (int j = 0; j < cols; j++) {
+
+                // Surrounded region
+                if (board[i][j] == 'O') {
                     board[i][j] = 'X';
                 }
-                else if(board[i][j] == '#') {
+
+                // Safe region
+                else if (board[i][j] == '#') {
                     board[i][j] = 'O';
                 }
             }
         }
     }
 
-    private void dfs(char[][] board, int i, int j) {
-        if(i < 0 || j < 0 ||
-           i >= board.length || j >= board[0].length ||
-           board[i][j] != 'O') {
+    public void dfs(char[][] board, int row, int col) {
+
+        // Boundary check
+        if (row < 0 || col < 0 ||
+            row >= board.length ||
+            col >= board[0].length ||
+            board[row][col] != 'O') {
+
             return;
         }
 
-        board[i][j] = '#';
+        // Mark safe cell
+        board[row][col] = '#';
 
-        dfs(board, i + 1, j);
-        dfs(board, i - 1, j);
-        dfs(board, i, j + 1);
-        dfs(board, i, j - 1);
+        // Visit all 4 directions
+
+        dfs(board, row + 1, col); // Down
+        dfs(board, row - 1, col); // Up
+        dfs(board, row, col + 1); // Right
+        dfs(board, row, col - 1); // Left
     }
 }
