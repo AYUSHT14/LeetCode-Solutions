@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0542-01-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1024-video-stitching](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1024-video-stitching) |
 ## Sliding Window
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0733-flood-fill) |
