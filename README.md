@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
