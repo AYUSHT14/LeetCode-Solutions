@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0258-add-digits) |
