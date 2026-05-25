@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
