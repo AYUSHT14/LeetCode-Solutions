@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
