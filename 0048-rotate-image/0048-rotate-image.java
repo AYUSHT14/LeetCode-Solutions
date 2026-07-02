@@ -9,8 +9,8 @@ class Solution {
             }
         }
         for(int i=0;i<n;i++){
-            int start = 0;
-            int end = n-1;
+            int start=0;
+            int end=n-1;
             while(start < end){
                 int temp = matrix[i][start];
                 matrix[i][start] = matrix[i][end];
