@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
