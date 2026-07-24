@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
@@ -338,8 +341,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
