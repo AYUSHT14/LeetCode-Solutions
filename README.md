@@ -371,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
