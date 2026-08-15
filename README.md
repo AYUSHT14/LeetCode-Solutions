@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0763-partition-labels) |
