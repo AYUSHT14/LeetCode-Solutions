@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0542-01-matrix](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AYUSHT14/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
